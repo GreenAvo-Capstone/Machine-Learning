@@ -10,7 +10,7 @@ The dataset is publicly available and can be accessed via Kaggle: Classification
 
 # <h2>Profile</h2>
 ### Team ID: C241-PS350
-## <H2> Android Development Members </H2>
+## <H2> Machine Learning Members </H2>
 
 * M118D4KX1534 - [Nur Anisah Fadhilah]
 * M312D4KY2489 - [AhmadYudistira]
